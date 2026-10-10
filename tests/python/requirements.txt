@@ -1,0 +1,5 @@
+# pdp Python tooling dependencies.
+#
+# The integration test (tests/python/test_ctypes.py) uses only the standard
+# library (unittest + ctypes), so there are no runtime requirements.  Add test
+# or tooling dependencies here if that changes.
